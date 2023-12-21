@@ -1,4 +1,4 @@
-const WP_URL = 'https://domain.com/';
+const WP_URL = 'https://hollywood.qaly.online/';
 if (!WP_URL) {
   throw new Error(`
     Please provide a valid WordPress instance URL.
